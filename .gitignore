@@ -1,0 +1,42 @@
+# Arquivo de ambiente com credenciais sensíveis
+.env
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Pastas
+graficos/
+
+# Arquivos
+dados_limpos.csv
+dados_pars.csv
+dados_pars_sr.csv
+dados_pars_ca.csv
+dados_limpos_ca.csv
+dados_limpos_sr.csv
